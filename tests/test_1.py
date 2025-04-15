@@ -12,4 +12,6 @@ def test_add_str():
 class TestSample:
     def test_sub_num(self):
         assert add(9, -2) == 7
-    
+
+# pytest is better bcoz of better ouptut(shows the error what's wrong)
+# lesser boilerCode to write
